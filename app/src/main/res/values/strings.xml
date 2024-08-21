@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Индекс массы тела</string>
+    <string name="first_place_text">Индекс массы тела</string>
+    <string name="height">рост (см)</string>
+    <string name="weight">вес (кг)</string>
+    <string name="go_next">Рассчитать ИМТ</string>
+    <string name="error_null">Одно или оба поля не заполнены</string>
+    <string name="error_not_digit">Вводите только числовые значения</string>
+    <string name="error_of_height">Некорректно введён рост</string>
+    <string name="error_of_weight">Некорректно введён вес</string>
+    <string name="imt_is_normal">(норма)</string>
+    <string name="imt_is_under">(меньше нормы)</string>
+    <string name="imt_is_over">(выше нормы)</string>
+    <string name="imt_is_normal_recommendation">Сохраняйте свой образ жизни!</string>
+    <string name="imt_is_under_recommendation">Займитесь спортом. Делайте акцент на анаэробных упражнениях.\n
+        Cтарайтесь придерживаться меню с увеличенным количеством белков, проконсультируйтесь с диетологом.\n
+        Если ваши результаты далеки от идеала, обратитесь к врачу.
+    </string>
+    <string name="imt_is_over_recommendation">Займитесь спортом. При занятиях необходим основной акцент на
+        аэробных упражнениях. Обязательно проконсультируйтесь с тренером, чтобы составить план тренировок.\n
+        Жрите меньше!\n
+        Необходимо придерживаться сбалансированной диеты с правильным содержанием белков, жиров, углеводов.\n
+        Ведите активный образ жизни.\n
+        Плавайте!\n
+        И оторвите, наконец, жопу от стула!\n
+    </string>
+</resources>
